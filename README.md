@@ -36,4 +36,4 @@ https://github.com/alastair/python-musicbrainzngs
 
 and the complete README:
 
-https://python-musicbrainzngs.readthedocs.io/en/v0.6/
+https://python-musicbrainzngs.readthedocs.io/en/v0.7.1/
